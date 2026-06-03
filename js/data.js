@@ -58,7 +58,7 @@ window.EL_ZAHRA_DATA = {
             
             // About
             about_title: "د. الحكيمة بتيرة",
-            about_subtitle: "أخصائية أمراض النساء والتوليد وعلاج تأخر الإنجاب",
+            about_subtitle: "أخصائية علاج العقم و تأخر الإنجاب",
             about_desc_1: "مرحباً بكم في عيادة الزهراء. أنا الدكتورة الحكيمة بتيرة، أكرس مسيرتي المهنية لمساعدة الأزواج في تحقيق حلم الأمومة والأبوة، وتوفير رعاية صحية راقية وشاملة للمرأة في جميع مراحل حياتها.",
             about_desc_2: "نعتمد في عيادتنا بباتنة على الجمع بين الخبرة الطبية السريرية العميقة وأحدث الابتكارات التكنولوجية مثل الليزر الطبي التجميلي والعلاجات الهرمونية المخصصة، مع الحفاظ على أعلى معايير الخصوصية والأمان.",
             about_feat_1: "توجيه علمي مخصص",
@@ -66,6 +66,22 @@ window.EL_ZAHRA_DATA = {
             about_feat_3: "متابعة دقيقة للأزواج",
             about_feat_4: "بيئة مريحة ودافئة",
             about_experience_text: "خبرة وتفانٍ في الخدمة",
+            about_qual_title: "المؤهلات والخبرات المهنية",
+            about_qual_intro: "متحصلة على العديد من الشهادات والتكوينات المتخصصة في المجال الطبي والعلاجي، من بينها:",
+            about_card_diplomas_title: "🎓 الشهادات والتكوين المتخصص",
+            about_qual_1: "شهادة تخصص في الطب البشري.",
+            about_qual_2: "شهادة في الإيكوغرافيا (Échographie) لمتابعة الحمل والتشخيص الطبي.",
+            about_qual_3: "شهادة دولية في العلاج الطبيعي وتحضير العلاجات الطبيعية الموجهة لعلاج العقم لدى النساء والرجال.",
+            about_qual_4: "شهادة في الحجامة الطبية وفق الأسس العلاجية الحديثة.",
+            about_qual_5: "تكوين مكثف وشهادة مع البروفيسور ندار سيتي في مجال علاج العقم.",
+            about_qual_6: "شهادة في التغذية العلاجية ودورها في تحسين الصحة الإنجابية والعلاج التكميلي.",
+            about_card_aesthetic_title: "✨ العناية والعلاج التجميلي والطبي للمنطقة الحساسة",
+            about_aesthetic_1: "علاج جفاف المنطقة الحساسة.",
+            about_aesthetic_2: "تضييق وتجديد المنطقة الحساسة بطرق علاجية آمنة.",
+            about_aesthetic_3: "علاج الالتهابات المزمنة وتقرحات عنق الرحم المزمنة.",
+            about_aesthetic_4: "علاج الإفرازات المهبلية المزمنة التي قد تؤثر على الراحة والصحة الزوجية.",
+            about_exp_box_title: "💼 خبرة في متابعة وعلاج حالات :",
+            about_exp_box_desc: "العقم النسائي والرجالي، سن اليأس المبكر، تكيس المبايض، البطانة المهاجرة، والإجهاضات المتكررة، وفق منهج علمي وعلاجي متكامل.",
             
             // Gallery
             gallery_title: "معرض صور العيادة",
@@ -270,7 +286,7 @@ window.EL_ZAHRA_DATA = {
             
             // About
             about_title: "Dr. Hakima Betira",
-            about_subtitle: "Spécialiste en Gynécologie-Obstétrique et Infertilité du Couple",
+            about_subtitle: "Spécialiste du traitement de l'infertilité et du retard de procréation",
             about_desc_1: "Bienvenue à la Clinique El-Zahra. En tant que médecin, ma vocation est de mettre la science et l'empathie au service des couples désireux de fonder une famille, et d'accompagner chaque femme avec dignité et expertise.",
             about_desc_2: "Notre clinique à Batna combine une solide expertise clinique avec les technologies médicales les plus modernes, notamment le laser intime et les thérapies hormonales ciblées, dans un cadre serein et confidentiel.",
             about_feat_1: "Orientation personnalisée",
@@ -278,6 +294,22 @@ window.EL_ZAHRA_DATA = {
             about_feat_3: "Suivi rigoureux du couple",
             about_feat_4: "Ambiance apaisante et chaleureuse",
             about_experience_text: "Années d'expertise et de dévouement",
+            about_qual_title: "Qualifications & Expérience Professionnelle",
+            about_qual_intro: "Titulaire de nombreux diplômes et formations spécialisées dans le domaine médical et thérapeutique, notamment :",
+            about_card_diplomas_title: "🎓 Diplômes & Formations Spécialisées",
+            about_qual_1: "Diplôme de spécialisation en Médecine Générale / Humaine.",
+            about_qual_2: "Certificat en Échographie pour le suivi de grossesse et le diagnostic médical.",
+            about_qual_3: "Certificat international en thérapie naturelle et préparation de remèdes naturels pour le traitement de l'infertilité masculine et féminine.",
+            about_qual_4: "Certificat en ventousothérapie médicale (Cupping) selon les bases thérapeutiques modernes.",
+            about_qual_5: "Formation intensive et certificat avec le Professeur Nedar Setti dans le domaine du traitement de l'infertilité.",
+            about_qual_6: "Certificat en nutrition thérapeutique et son rôle dans l'amélioration de la santé reproductive et les thérapies complémentaires.",
+            about_card_aesthetic_title: "✨ Soins Esthétiques & Médicaux de la Zone Intime",
+            about_aesthetic_1: "Traitement de la sécheresse de la zone intime.",
+            about_aesthetic_2: "Resserrement et rajeunissement de la zone intime par des méthodes thérapeutiques sûres.",
+            about_aesthetic_3: "Traitement des infections et ulcérations chroniques du col de l'utérus.",
+            about_aesthetic_4: "Traitement des sécrétions vaginales chroniques affectant le confort et la santé du couple.",
+            about_exp_box_title: "💼 Expérience dans le suivi et le traitement :",
+            about_exp_box_desc: "Infertilité féminine et masculine, ménopause précoce, syndrome des ovaires polykystiques (SOPK), endométriose et fausses couches à répétition, selon une approche scientifique et thérapeutique intégrée.",
             
             // Gallery
             gallery_title: "Galerie de la Clinique",
@@ -446,7 +478,7 @@ window.EL_ZAHRA_DATA = {
                 ar: "نقدم في عيادتنا بروتوكولات علاجية شاملة لعقم النساء تشمل تحريض الإباضة، علاج الاضطرابات الهرمونية، ومتابعة نمو البويضات بدقة متناهية عبر الموجات فوق الصوتية، بالإضافة إلى توجيه الحالات التي تستدعي التلقيح الاصطناعي أو أطفال الأنابيب.",
                 fr: "Nous proposons des protocoles de diagnostic poussés pour identifier les troubles de l'ovulation, les anomalies tubaires ou utérines, suivis d'un traitement adapté : stimulation ovarienne contrôlée, monitorage échographique précis et orientation pour insémination ou FIV."
             },
-            img: "assets/treatment_laser.png",
+            img: "assets/female_fertility.png",
             advantages: {
                 ar: [
                     "متابعة دقيقة وتخصيص كامل لبروتوكول العلاج لكل مريضة.",
@@ -490,7 +522,7 @@ window.EL_ZAHRA_DATA = {
                 ar: "سن اليأس المبكر أو قصور المبيض المبكر يستدعي تدخلاً سريعاً. نقوم بتقديم العلاج الهرموني التعويضي المناسب والمدروس لحماية العظام والقلب من الآثار الجانبية، مع استخدام طرق علمية متطورة لتحفيز خلايا المبيض المتبقية لدى النساء الراغبات في الإنجاب.",
                 fr: "L'insuffisance ovarienne prématurée (IOP) nécessite une prise en charge précoce. Nous mettons en place des thérapies hormonales substitutives (THS) sur mesure pour préserver la santé cardiovasculaire et osseuse, tout en explorant les solutions pour restaurer ou pallier la fertilité."
             },
-            img: "assets/clinic_lobby.png",
+            img: "assets/hormone_therapy.png",
             advantages: {
                 ar: [
                     "فحوصات معملية شاملة للهرمونات ومخزون المبيض.",
@@ -527,7 +559,7 @@ window.EL_ZAHRA_DATA = {
                 ar: "عقم الرجال يشكل حوالي 40% من حالات تأخر الإنجاب. توفر عيادتنا تشخيصاً دقيقاً يشمل تحليل جودة ونشاط وحركة الحيوانات المنوية، تشخيص الدوالي، علاج الالتهابات التناسلية والاضطرابات الهرمونية، بالتعاون مع أخصائيين لتوفير بروتوكول متكامل للزوجين معاً في نفس المكان.",
                 fr: "L'infertilité d'origine masculine représente près de 40% des cas. Nous réalisons des spermogrammes détaillés, des bilans hormonaux et recommandons des thérapies médicamenteuses ou chirurgicales (dépistage de varicocèle) pour maximiser le potentiel de fécondation naturelle ou orienter vers l'ICSI."
             },
-            img: "assets/treatment_laser.png",
+            img: "assets/male_fertility.png",
             advantages: {
                 ar: [
                     "تشخيص مشترك للزوجين في نفس الوقت لضمان الفعالية.",
@@ -564,7 +596,7 @@ window.EL_ZAHRA_DATA = {
                 ar: "متلازمة تكيس المبايض (SOPK) هي السبب الأكثر شيوعاً لتأخر الحمل. بروتوكولنا يعتمد على علاج متكامل يجمع بين تعديل مقاومة الإنسولين، تنظيم الدورة الشهرية، مكافحة ظهور الشعر الزائد وحب الشباب، وتنشيط المبيض بطرق علمية آمنة لحماية المبايض من التضخم الزائد وتسهيل الحمل السريع.",
                 fr: "Le SOPK est le trouble hormonal féminin le plus fréquent. Notre approche médicale vise à réduire l'insulinorésistance, équilibrer les hormones androgènes, réguler les cycles menstruels et induire une ovulation de qualité en toute sécurité pour mener à bien un projet de grossesse."
             },
-            img: "assets/treatment_laser.png",
+            img: "assets/medical_equipment.png",
             advantages: {
                 ar: [
                     "متابعة دقيقة ومستمرة لمستويات الهرمونات ومقاومة الإنسولين.",
@@ -601,7 +633,7 @@ window.EL_ZAHRA_DATA = {
                 ar: "البطانة المهاجرة تسبب آلاماً شديدة وتؤثر سلباً على الحمل. نقوم بتشخيصها بدقة عبر الفحص بالرنين المغناطيسي أو الموجات الصوتية المهبلية المتقدمة، وتقديم بروتوكول علاجي يجمع بين تسكين الآلام، كبح نمو الخلايا الهرموني، وتجهيز الرحم والمبايض لحدوث الحمل بأقل الأضرار الممكنة وبسرية تامة.",
                 fr: "L'endométriose altère grandement la qualité de vie et la fertilité. Nous proposons un parcours de soins complet : cartographie échographique des lésions, traitements hormonaux suppressifs de la douleur, et protocoles de stimulation douce pour contourner l'impact inflammatoire sur l'ovocyte."
             },
-            img: "assets/clinic_lobby.png",
+            img: "assets/hero_bg.png",
             advantages: {
                 ar: [
                     "خبرة واسعة في تشخيص الحالات المستعصية والآلام المزمنة.",
@@ -638,7 +670,7 @@ window.EL_ZAHRA_DATA = {
                 ar: "الإجهاض المتكرر يمثل عبئاً نفسياً وجسدياً كبيراً على الزوجين. نركز في عيادتنا على كشف الأسباب الدقيقة مثل التخثرات الدموية، مشاكل المناعة الذاتية، تشوهات الرحم والاضطرابات الهرمونية، وتقديم بروتوكول وقائي صارم يبدأ قبل التخطيط للحمل ويستمر طيلة الأشهر الأولى لضمان ولادة طفل سليم بإذن الله.",
                 fr: "Les fausses couches à répétition exigent une enquête médicale rigoureuse (bilan de thrombophilie, immunologique, caryotypes, anatomie utérine). Nous mettons en œuvre des traitements préventifs (aspirine, héparine de bas poids moléculaire, progestérone) dès la phase préconceptionnelle pour sécuriser la grossesse."
             },
-            img: "assets/dr_betira.png",
+            img: "assets/miscarriage_lab.png",
             advantages: {
                 ar: [
                     "تحاليل مناعية وجينية متكاملة للزوجين معاً.",
@@ -675,7 +707,7 @@ window.EL_ZAHRA_DATA = {
                 ar: "نوفر لعملائنا توجيهاً علمياً متكاملاً لاختيار جنس الجنين (ذكر أو أنثى) عبر الجمع بين تحديد موعد التبويض بدقة متناهية بالسونار، تعديل حموضة المنطقة الحساسة، نظام غذائي مخصص، وتوجيه الحالات الطبية لإجراء الفرز الوراثي للأجنة PGT-A بالتعاون مع أرقى مختبرات أطفال الأنابيب لضمان دقة تصل لـ 99%.",
                 fr: "Nous accompagnons les couples souhaitant équilibrer leur famille par des protocoles scientifiques éprouvés : timing précis de l'ovulation par échographie, régulation du pH vaginal, régimes nutritionnels spécifiques et orientation vers le diagnostic préimplantatoire (DPI) en laboratoire de FIV pour un résultat garanti à 99%."
             },
-            img: "assets/dr_betira.png",
+            img: "assets/dna_selection.png",
             advantages: {
                 ar: [
                     "طرق علمية مدروسة وبعيدة عن الخرافات والوصفات التقليدية.",
@@ -921,7 +953,7 @@ window.EL_ZAHRA_DATA = {
                 ar: "شهد مجال طب الخصوبة والمساعدة الطبية على الإنجاب قفزة نوعية في السنوات الأخيرة. لم تعد العلاجات تقتصر على الحقن العشوائي، بل أصبحت مخصصة بدقة عالية.\n\nتشمل التقنيات الحديثة التي نوجه ونعد المريضات لها :\n1. **تحسين بطانة الرحم بالبلازما الغنية بالصفائح (PRP)** : لتكثيف جدار الرحم الضعيف وزيادة نسب انغراس الأجنة.\n2. **فرز النطاف المتطور** : لعزل الحيوانات المنوية الأكثر نشاطاً وخلوها من التشوهات الجينية.\n3. **التشخيص الجيني المبكر للأجنة (PGT)** : لاستبعاد الأجنة الحاملة للأمراض الوراثية وتحديد الأجنة السليمة تماماً.\n\nتلتزم عيادتنا بتطبيق هذه البروتوكولات العلمية المبتكرة لتقليل فترات العلاج وزيادة نسب النجاح للأزواج.",
                 fr: "La médecine de la reproduction a accompli des progrès extraordinaires ces dernières années, s'orientant vers une personnalisation extrême des traitements de l'infertilité.\n\nLes innovations majeures que nous mettons en pratique incluent :\n1. **Régénération endométriale par PRP (Plasma Riche en Plaquettes)** : pour augmenter l'épaisseur de l'endomètre et favoriser la nidation chez les patientes ayant des échecs d'implantation répétés.\n2. **Sélection spermatique avancée (MACS / Zymōt)** : pour isoler les spermatozoïdes présentant le moins de fragmentation de l'ADN.\n3. **DPI (Diagnostic Préimplantatoire)** : pour analyser génétiquement les embryons en laboratoire avant le transfert utérin afin de s'assurer de leur viabilité.\n\nNotre centre à Batna applique et prépare les couples à ces parcours technologiques d'élite pour maximiser les taux de naissances vivantes."
             },
-            img: "assets/dr_betira.png"
+            img: "assets/medical_equipment.png"
         },
         {
             id: "gender-selection-facts",
@@ -937,7 +969,7 @@ window.EL_ZAHRA_DATA = {
                 ar: "يثير موضوع اختيار جنس المولود (ذكر أو أنثى) اهتماماً واسعاً لدى العائلات في الجزائر. للأسف، تنتشر في مجتمعنا خرافات ووصفات عشبية قد تكون خطيرة على الصحة دون أي أساس علمي.\n\n**الحقائق العلمية المعتمدة:**\n- **الحمية الغذائية وتوقيت الجماع:** تعتمد على تغيير طفيف في حموضة المهبل وتركيز المعادن في البويضة لترجيح نطفة (Y أو X). تبلغ نسبة نجاحها طبياً حوالي 60-70% وليست مضمونة بشكل مطلق.\n- **فرز الأجنة وراثياً (PGT-A) مع الحقن المجهري:** هي التقنية الطبية الوحيدة المضمونة بنسبة 99%، حيث يتم فحص كروموسومات الأجنة في المختبر وإرجاع الأجنة من الجنس المرغوب والسليمة وراثياً.\n\nتساعدك الدكتورة بتيرة في فهم هذه الخيارات وتطبيق البروتوكول الأنسب لرغباتكم وبسرية تامة.",
                 fr: "Le choix du sexe de l'enfant suscite un intérêt grandissant chez les couples en Algérie. Cependant, de nombreuses croyances populaires ou régimes farfelus circulent sans aucun fondement biologique.\n\n**Ce que dit la science :**\n- **Méthodes diététiques et timing du rapport :** Reposent sur la modification du pH vaginal et de la balance minérale (sodium/potassium vs calcium/magnésium) pour favoriser les spermatozoïdes X ou Y. L'efficacité scientifiquement constatée oscille entre 60% et 70%.\n- **Tri embryonnaire par Diagnostic Préimplantatoire (DPI) en FIV :** C'est l'unique méthode fiable à 99%. Elle consiste à prélever quelques cellules de l'embryon à J5 pour analyser les chromosomes sexuels (XX ou XY) avant le transfert in utero.\n\nÀ la Clinique El-Zahra, nous vous guidons objectivement parmi ces options médicales pour concevoir en toute sécurité et discrétion."
             },
-            img: "assets/dr_betira.png"
+            img: "assets/dna_selection.png"
         }
     ],
 

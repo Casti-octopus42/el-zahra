@@ -1013,6 +1013,104 @@ body[dir="rtl"] .about-experience-badge {
     font-size: 0.95rem;
 }
 
+/* About Qualifications & Experience */
+.about-qualifications {
+    margin-top: 35px;
+    border-top: 1px dashed var(--border-color);
+    padding-top: 30px;
+}
+
+.about-qualifications-title {
+    font-size: 1.4rem;
+    color: var(--primary);
+    font-weight: 700;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.qualifications-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 24px;
+}
+
+.qual-card {
+    background: var(--bg-card);
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-md);
+    padding: 20px;
+    transition: all var(--transition-fast);
+}
+
+.qual-card:hover {
+    border-color: var(--secondary);
+    box-shadow: var(--shadow-sm);
+    transform: translateY(-2px);
+}
+
+.qual-card h5 {
+    font-size: 1.1rem;
+    color: var(--primary);
+    font-weight: 700;
+    margin-bottom: 14px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.qual-list {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.qual-list li {
+    font-size: 0.95rem;
+    color: var(--text-muted);
+    display: flex;
+    align-items: flex-start;
+    gap: 8px;
+    line-height: 1.4;
+}
+
+.qual-list li::before {
+    content: "•";
+    color: var(--secondary);
+    font-weight: bold;
+    font-size: 1.2rem;
+    line-height: 1;
+}
+
+.experience-box {
+    background: var(--secondary-bg);
+    border-left: 4px solid var(--secondary);
+    border-radius: var(--radius-sm);
+    padding: 16px 20px;
+    margin-top: 20px;
+}
+
+body[dir="rtl"] .experience-box {
+    border-left: none;
+    border-right: 4px solid var(--secondary);
+}
+
+.experience-box h6 {
+    font-size: 1rem;
+    color: var(--primary);
+    font-weight: 700;
+    margin-bottom: 8px;
+}
+
+.experience-box p {
+    font-size: 0.95rem;
+    color: var(--text-muted);
+    margin: 0;
+    line-height: 1.5;
+}
+
 /* ==========================================================================
    WHY CHOOSE US (POURQUOI NOUS CHOISIR)
    ========================================================================== */
